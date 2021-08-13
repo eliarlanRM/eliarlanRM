@@ -28,7 +28,7 @@
 - Enjoy it!! o/
 
 
-[![eliarlanRM GitHub stats](https://github-readme-stats.vercel.app/api?username=eliarlanRM&theme=dark&show_icons=true)](https://github.com/eliarlanRM)
+[![eliarlanRM GitHub stats](https://github-readme-stats.vercel.app/api?username=eliarlanRM&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/eliarlanRM)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliarlanRM&layout=compact&theme=dark&)](https://github.com/eliarlanRM/github-readme-stats)
 
 
