@@ -27,9 +27,12 @@
 
 - Enjoy it!! o/
 
-
-[![eliarlanRM GitHub stats](https://github-readme-stats.vercel.app/api?username=eliarlanRM&title_color=FF0000&icon_color=FF2800&text_color=333&bg_color=fffefe&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/eliarlanRM)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliarlanRM&layout=compact&title_color=FF0000&theme=default)](https://github.com/eliarlanRM/github-readme-stats)
+<a href="https://github.com/eliarlanRM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliarlanRM&title_color=FF0000&icon_color=FF2800&text_color=333&bg_color=fffefe&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/eliarlanRM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliarlanRM&layout=compact&title_color=FF0000&theme=default&langs_count=7)](https://github.com/eliarlanRM/github-readme-stats" />
+</a>
 
 
 
